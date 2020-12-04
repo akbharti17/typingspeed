@@ -63,7 +63,7 @@ function reset(){
 	testArea.value="";
 	theTimer.innerHTML="00:00:00";
 	testWrapper.style.borderColor="grey";
-	document.getElementById("wordcount").innerHTML="Word Counts:";
+	document.getElementById("wordcount").innerHTML="Word Counts: 0";
 }
 
 
